@@ -1,5 +1,7 @@
 # A multi-user Android application that handles daily activities of NGO
-Code link:- 
+Code link:- https://github.com/krishnalondhe211/FoodDonar
+Currently Development in progress (repository is kept private) send email to:- londhekrishna570@gmail.com for access.
+
 Screen Shots
 <table>
   <tr>
